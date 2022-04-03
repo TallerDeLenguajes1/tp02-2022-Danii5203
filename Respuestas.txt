@@ -1,1 +1,5 @@
-respuestas
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+. No se puede ver el archivo "tp2_1_2.c", porque esta en la rama del branch "Opcion_2".
+
+Vuelva a ejecutar el comando gitk --all. ¿Qué diferencias nota?
+. Visualmente se puede notar que las ramas de los branch "Opcion_2" y "main" estan separadas, una ve hecho el commit de "respuestas.txt" solo es visible en la rama del branch "main".
