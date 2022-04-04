@@ -115,5 +115,5 @@ void pcMasVeloz(pc *compu){
 		}
 	}
 	
-	mostrarPc(&pcVeloz); //mostramos la pc mas vieja que encontramos
+	mostrarPc(&pcVeloz); //mostramos la pc mas veloz que encontramos
 }
